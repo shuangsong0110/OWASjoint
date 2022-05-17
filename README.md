@@ -60,6 +60,9 @@ owas.joint.plot(trait = TRAIT_NAME(required),
 
 - CHROMOSOME： By default=1:22
 
+![multi](/Rectangular-Manhattan.ACAT_part.png)
+
+
 
 ### Visualization for single-cell-type OWAS (Manhattan plot)
 ```r
@@ -80,6 +83,7 @@ owas.single.plot(trait = TRAIT_NAME(required),
 
 - CHROMOSOME： By default=1:22
 
+![single](/Circular-Manhattan.A549.Helas3.Hepg2.Th1.png)
 
 
 ## :busts_in_silhouette: Maintainer
