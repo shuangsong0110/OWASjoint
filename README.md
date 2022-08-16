@@ -95,9 +95,9 @@ Please contact Shuang Song (song-s19@mails.tsinghua.edu.cn) if there are any pro
 ## Citations
 Please cite:
 
-Song, S., Sun, H., Liu, J. S., & Hou, L. Multi-cell-type openness-weighted association studies for trait-associated genomic segments prioritization. Submitted.
+Song, S., Sun, H., Liu, J. S., & Hou, L. (2022). Multi-Cell-Type Openness-Weighted Association Studies for Trait-Associated Genomic Segments Prioritization. Genes, 13(7), 1220.
 
-Song, S., Shan, N., Wang, G., Yan, X., Liu, J. S., & Hou, L. (2021). Openness weighted association studies: leveraging personal genome information to prioritize non-coding variants. Bioinformatics.
+Song, S., Shan, N., Wang, G., Yan, X., Liu, J. S., & Hou, L. (2021). Openness weighted association studies: leveraging personal genome information to prioritize non-coding variants. Bioinformatics, 37(24), 4737-4743.
 
 Part of the visualization is based on: 
 
